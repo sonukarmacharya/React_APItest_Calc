@@ -1,0 +1,32 @@
+table {
+  width: 80%;
+  margin-left: 10%;
+}
+
+table thead {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  color: #63552d;
+}
+
+table thead th {
+  border-bottom: groove;
+}
+
+table tbody {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+table tbody tr {
+  color: #e0ab19;
+  border-bottom: groove;
+}
+/*# sourceMappingURL=history.css.map */
